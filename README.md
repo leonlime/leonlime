@@ -9,7 +9,7 @@
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/leonardo-mendes-de-souza-lima-18ab27120/">LinkedIn</a> or <a href="javascript:location.href = 'mailto:' + ['leo.mendes21','hotmail.com'].join('@')">E-mail</a>.
 
-I have posted some projects and tutorials on leonlime.github.io
+I have posted some projects and tutorials on <a href="https://leonlime.github.io/">leonlime.github.io</a>
   
 <div>
 <a href="https://github.com/leonlime">
